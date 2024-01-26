@@ -26,4 +26,4 @@ Due to intellectual property considerations, detailed code and specific project 
 
 Feel free to reach out for more information or discussions about my internship experience. Thank you!
 
-*Note: This README.md file provides a brief overview; the actual presentation slides may contain more detailed information.*
+*Note: This README.md file provides a brief overview; the actual presentation slides contain more detailed information.*
